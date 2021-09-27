@@ -30,11 +30,21 @@ li:first-letter {
 a {
   text-decoration: none;
 }
+
+footer.container {
+  color: grey;
+  font-size: 12px;
+  border: 0 solid white;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
 .container {
   border: 1px solid #dadde1;
   border-radius: 10px;
   margin: 50px auto;
   padding: 20px;
+  margin-bottom: 0;
 }
 
 .weather-app-wrapper {
