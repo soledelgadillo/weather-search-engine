@@ -21,9 +21,7 @@ export default function Overview() {
             />
             <div className="float-left">
               <strong id="temperature">18</strong>
-              <span className="units">
-                <a href="#">ºC </a> | <a href="#">ºF </a>
-              </span>
+              <span className="units">ºC</span>
             </div>
           </div>
         </div>
